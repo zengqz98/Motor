@@ -1,6 +1,6 @@
-# OmniBit
+# GHRD 智能小车模块库
 
-Extension for YahBoom OmniBit V1.0.5
+Extension for microbit V1.0.5
 
 ## TODO
 
