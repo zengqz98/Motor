@@ -1,7 +1,7 @@
 {
-    "name": "GHRD",
+    "name": "电机驱动模块库",
     "version": "1.0.5",
-    "description": "Extension for YahBoom OmniBit V1.0.5",
+    "description": "Extension for 智能小车 V1.0.5",
     "dependencies": {
         "core": "*",
         "neopixel": "github:lzty634158/pxt-neopixel"
